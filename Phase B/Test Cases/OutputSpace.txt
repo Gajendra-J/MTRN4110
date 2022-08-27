@@ -1,0 +1,199 @@
+[z5258374_MTRN4110_PhaseB] Reading in map from ../../MapSpace.txt...
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |                                   |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | x                         |     > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Map read in!
+[z5258374_MTRN4110_PhaseB] Finding shortest paths...
+[z5258374_MTRN4110_PhaseB] Path - 1:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] | 1   2   3   4   5   6   7   8   9 |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0                         |     > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 2:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |     2   3   4   5   6   7   8   9 |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1                     |     > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 3:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |         3   4   5   6   7   8   9 |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2                 |     > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 4:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |             4   5   6   7   8   9 |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2   3             |     > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 5:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |                 5   6   7   8   9 |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2   3   4         |     > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 6:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |                     6   7   8   9 |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2   3   4   5     |     > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 7:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |                         7   8   9 |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2   3   4   5   6 |     > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 8:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] | 1   2   3   4   5   6   7   8     |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0                         | 9   > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 9:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |                     6   7   8     |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2   3   4   5     | 9   > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 10:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |                         7   8     |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2   3   4   5   6 | 9   > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 11:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |                 5   6   7   8     |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2   3   4         | 9   > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 12:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |             4   5   6   7   8     |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2   3             | 9   > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 13:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |     2   3   4   5   6   7   8     |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1                     | 9   > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Path - 14:
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] |         3   4   5   6   7   8     |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0   1   2                 | 9   > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] 14 shortest paths found!
+[z5258374_MTRN4110_PhaseB] Finding shortest path with least turns...
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- ---
+[z5258374_MTRN4110_PhaseB] |               |                   |
+[z5258374_MTRN4110_PhaseB]      ---                 ---         
+[z5258374_MTRN4110_PhaseB] |           |           |   |       |
+[z5258374_MTRN4110_PhaseB]  ---             --- ---     ---     
+[z5258374_MTRN4110_PhaseB] |       |   |   |                   |
+[z5258374_MTRN4110_PhaseB]          ---     --- --- ---         
+[z5258374_MTRN4110_PhaseB] | 1   2   3   4   5   6   7   8   9 |
+[z5258374_MTRN4110_PhaseB]                                      
+[z5258374_MTRN4110_PhaseB] | 0                         |     > |
+[z5258374_MTRN4110_PhaseB]  --- --- --- --- --- --- --- --- --- 
+[z5258374_MTRN4110_PhaseB] Shortest path with least turns found!
+[z5258374_MTRN4110_PhaseB] Path Plan (13 steps): 48ELFLFFFFFFFFLF
+[z5258374_MTRN4110_PhaseB] Writing path plan to ../../PathPlanSpace.txt...
+[z5258374_MTRN4110_PhaseB] Path plan written to ../../PathPlanSpace.txt!
