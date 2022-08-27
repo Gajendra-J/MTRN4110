@@ -1,0 +1,35 @@
+[z1234567_MTRN4110_PhaseA] Reading in motion plan from ../../MotionPlan.txt...
+[z1234567_MTRN4110_PhaseA] Motion Plan: 00SFLFFLFRFRFFFLFRFLFFLFRFLFLFFF
+[z1234567_MTRN4110_PhaseA] Motion plan read in!
+[z1234567_MTRN4110_PhaseA] Executing motion plan...
+[z1234567_MTRN4110_PhaseA] Step: 000, Row: 0, Column: 0, Heading: S, Left Wall: N, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 001, Row: 1, Column: 0, Heading: S, Left Wall: N, Front Wall: Y, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 002, Row: 1, Column: 0, Heading: E, Left Wall: N, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 003, Row: 1, Column: 1, Heading: E, Left Wall: Y, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 004, Row: 1, Column: 2, Heading: E, Left Wall: N, Front Wall: Y, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 005, Row: 1, Column: 2, Heading: N, Left Wall: N, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 006, Row: 0, Column: 2, Heading: N, Left Wall: N, Front Wall: Y, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 007, Row: 0, Column: 2, Heading: E, Left Wall: Y, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 008, Row: 0, Column: 3, Heading: E, Left Wall: Y, Front Wall: Y, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 009, Row: 0, Column: 3, Heading: S, Left Wall: Y, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 010, Row: 1, Column: 3, Heading: S, Left Wall: N, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 011, Row: 2, Column: 3, Heading: S, Left Wall: Y, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 012, Row: 3, Column: 3, Heading: S, Left Wall: N, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 013, Row: 3, Column: 3, Heading: E, Left Wall: N, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 014, Row: 3, Column: 4, Heading: E, Left Wall: Y, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 015, Row: 3, Column: 4, Heading: S, Left Wall: N, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 016, Row: 4, Column: 4, Heading: S, Left Wall: N, Front Wall: Y, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 017, Row: 4, Column: 4, Heading: E, Left Wall: N, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 018, Row: 4, Column: 5, Heading: E, Left Wall: Y, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 019, Row: 4, Column: 6, Heading: E, Left Wall: N, Front Wall: Y, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 020, Row: 4, Column: 6, Heading: N, Left Wall: N, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 021, Row: 3, Column: 6, Heading: N, Left Wall: Y, Front Wall: Y, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 022, Row: 3, Column: 6, Heading: E, Left Wall: Y, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 023, Row: 3, Column: 7, Heading: E, Left Wall: N, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 024, Row: 3, Column: 7, Heading: N, Left Wall: N, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 025, Row: 2, Column: 7, Heading: N, Left Wall: N, Front Wall: Y, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 026, Row: 2, Column: 7, Heading: W, Left Wall: N, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 027, Row: 2, Column: 6, Heading: W, Left Wall: Y, Front Wall: N, Right Wall: N
+[z1234567_MTRN4110_PhaseA] Step: 028, Row: 2, Column: 5, Heading: W, Left Wall: Y, Front Wall: N, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Step: 029, Row: 2, Column: 4, Heading: W, Left Wall: Y, Front Wall: Y, Right Wall: Y
+[z1234567_MTRN4110_PhaseA] Motion plan executed!
